@@ -8,6 +8,7 @@ description: "Write an awesome description for your new site here. You can edit 
 
 collections:
   - trenere
+  - styret
 # Team names, titles
 #trenere:
 #- name: Alf Birger Rostad
@@ -49,21 +50,20 @@ collections:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
+  - title: instagram
+    url: http://instagram.com/innherredjudobjj
+  - title: youtube
+    url: https://www.youtube.com/channel/UCYglIAHSwPWnh_Ipse9NyBg
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+    url: https://www.facebook.com/innherredjudobjj/
+#  - title: snapchat
+#      url: https://www.snapchat.com/add/ijudobjj
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Vårtun Kristne Oppvekstsenter
+  - line: Alstadhaugvegen 150
+  - line: 7607 Levanger
 
 # Build settings
 markdown: kramdown
