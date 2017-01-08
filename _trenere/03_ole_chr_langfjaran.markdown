@@ -17,5 +17,7 @@ social:
       url: https://www.facebook.com/judoole
     - title: instagram
       url: https://www.instagram.com/judoole
+    - title: youtube
+      url: https://www.youtube.com/user/judoole
       
 ---
