@@ -4,49 +4,11 @@ url: https://y7kim.github.io
 # Site settings
 title: Innherred Judo og BJJ
 email: ijudobjj@gmail.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "Innherred Judo og BJJ. Etablert i 2016. Morsom og god trening for alle med erfarne kampsporttrenere. "
 
 collections:
   - trenere
   - styret
-# Team names, titles
-#trenere:
-#- name: Alf Birger Rostad
-#  pic: user.png
-#  position: Leder/Graderingssensor/trener
-#  text: "5. dan judo. Alf har vært aktiv i judoen siden 1972 og æresmedlem av norges judoforbund. Han var president i 1999-2003 og i dag medlem av honorær komite(?) og graderingssensor for dan-graderinger i forbundet(?) .
-#
-#  Til daglig jobber Alf hos NAV som konsulent."
-#
-#- name: Snorre Johansen
-#  pic: snorre_johansen.jpg
-#  position: Hovedtrener
-#  text: "Snorre har flere titalls år innen judoen og de fleste av de som hovedtrener."
-#
-#- name: Ole Christian Langfjæran
-#  pic: user.png
-#  position: Trener BJJ
-#  text: "En tidligere konkurranseutøver i judo som nå har byttet beite og utøver brazilian ji-jitsu. Han gjorde byttet etter å ha bodd i Oslo og trent for Frontline Academy."
-#
-#- name: Egil Kvåle
-#  pic: user.png
-#  position: Trener
-#  text: "Egil Kvåle er et av judo-norges mest kjente navn. Helt siden han debuterte med NM-gull i under 86 kg i 1987 har han høstet medaljer av edleste valør nesten hvert år."
-#
-#- name: Håvard Thorsø Johansen
-#  pic: user.png
-#  position: Trener
-#  text: "Håvard er en av klubbens konkurranseutøvere med flere medaljer i de siste års NM. Til daglig jobber Håvard som jurist for skatteetaten"
-#
-#- name: Benjamin Rajabi
-#  pic: user.png
-#  position: Trener
-#  text: "Til daglig jobber Benjamin som lege ved Levanger sykehus."
-#
-#- name: Ole-Johnny Westrum
-#  pic: user.png
-#  position: Trener
-#  text: "Til daglig jobber Benjamin som lege ved Levanger sykehus. Ole-Johnny studerer fysioterapi i Trondheim"
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:

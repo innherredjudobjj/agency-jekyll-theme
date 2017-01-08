@@ -1,6 +1,6 @@
 ---
 navn: Alf Birger Rostad
-tittel: Graderingssensor og trener barn og ungdom
+tittel: Graderingssensor og trener barn
 layout: default
 modal-id: 1
 img: alf_birger_rostad.jpg
@@ -10,5 +10,7 @@ description: "5. dan judo. Alf har vært aktiv i judoen siden 1972 og æresmedle
 
 
               Til daglig jobber Alf hos NAV som konsulent."
-
+social:
+    - title: facebook
+      url: https://www.facebook.com/profile.php?id=100005149661247
 ---

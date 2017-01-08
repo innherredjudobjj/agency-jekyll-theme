@@ -1,6 +1,6 @@
 ---
-navn: Ole Christian Langfjæran
-tittel: Trener BJJ
+navn: Torill Susegg
+tittel: Styremedlem
 layout: default
 modal-id: 3
 img: batman.png
@@ -10,12 +10,5 @@ description: "1. dan judo. En tidligere konkurranseutøver i judo som i Oslo byt
 
 
               Til daglig jobber Ole Christian som IT-konsulent for BEKK i Trondheim."
-social:
-    - title: twitter
-      url: https://twitter.com/judoole
-    - title: facebook
-      url: https://www.facebook.com/judoole
-    - title: instagram
-      url: https://www.instagram.com/judoole
-      
+
 ---

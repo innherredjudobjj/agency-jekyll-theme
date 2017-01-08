@@ -1,6 +1,6 @@
 ---
 navn: Snorre Johansen
-tittel: Trener barn og ungdom
+tittel: Nestleder
 layout: default
 modal-id: 2
 img: snorre_johansen.jpg

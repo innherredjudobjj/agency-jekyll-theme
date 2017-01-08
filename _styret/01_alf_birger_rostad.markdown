@@ -1,6 +1,6 @@
 ---
 navn: Alf Birger Rostad
-tittel: Graderingssensor og trener barn og ungdom
+tittel: Leder
 layout: default
 modal-id: 1
 img: alf_birger_rostad.jpg

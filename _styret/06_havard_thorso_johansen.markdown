@@ -1,10 +1,10 @@
 ---
 navn: Håvard Thorsø Johansen
-tittel: Trener barn og ungdom
+tittel: Styremedlem
 layout: default
 modal-id: 4
-img: user.png
-thumbnail: user.png
+img: batman.png
+thumbnail: batman.png
 alt: Håvard Thorsø Johansen, hovedtrener Judo
 description: "2. dan judo. Håvard er en meget erfaren judo-utøver med flere medaljer fra NM.
 
