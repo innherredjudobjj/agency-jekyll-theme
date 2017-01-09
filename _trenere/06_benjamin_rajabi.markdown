@@ -3,8 +3,8 @@ navn: Benjamin Rajabi
 tittel: Trener
 layout: default
 modal-id: 6
-img: batman.png
-thumbnail: batman.png
+img: benjamin.jpg
+thumbnail: benjamin.jpg
 alt: Benjamin Rajabi, trener judo
 description: "2. dan judo. Benjamin er en meget erfaren konkurranseutøver i judo og trener for judopartiet.
               
@@ -13,4 +13,6 @@ description: "2. dan judo. Benjamin er en meget erfaren konkurranseutøver i jud
 social:
    - title: facebook
      url: https://www.facebook.com/benjamin.rajabi
+   - title: instagram
+     url: https://www.instagram.com/rajabigram
 ---
