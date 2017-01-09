@@ -13,4 +13,6 @@ description: "3. dan judo. Snorre er en av Norges mest erfarne stevneledere og h
 social:
     - title: facebook
       url: https://www.facebook.com/snorre.johansen.54
+    - title: instagram
+      url: https://www.instagram.com/snorrejohansen
 ---
