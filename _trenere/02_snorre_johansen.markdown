@@ -6,10 +6,10 @@ modal-id: 2
 img: snorre_johansen.jpg
 thumbnail: snorre_johansen.jpg
 alt: Snorre Johansen, trener barn og ungdom
-description: "3. dan judo. Snorre er en av norges mest erfarne stevneledere og har i nesten 20 år vært hovedtrener for Levanger Judoklubb.
+description: "3. dan judo. Snorre er en av Norges mest erfarne stevneledere og har i en årrekke vært sportslig leder for Levanger Judoklubb.
 
 
-              Snorre har hovedfag i Nordiske språk og jobber til daglig som lektor ved Nord Universitet."
+              Snorre jobber til daglig som universitetslektor i norsk ved Nord universitet."
 social:
     - title: facebook
       url: https://www.facebook.com/snorre.johansen.54
