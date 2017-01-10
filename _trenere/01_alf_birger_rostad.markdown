@@ -6,7 +6,7 @@ modal-id: 1
 img: alf_birger_rostad.jpg
 thumbnail: alf_birger_rostad.jpg
 alt: Alf Birger Rostad, trener barn og ungdom
-description: "5. dan judo. Alf har vært aktiv i judoen siden 1972 og æresmedlem av norges judoforbund. Han var president i 1999-2003 og i dag medlem av honorær komite og graderingssensor for dan-graderinger i forbundet. I tillegg har han vært hovedtrener for Levanger Judoklubb i mer enn 40 år.
+description: "5. dan judo. Alf har vært aktiv i judoen siden 1972 og æresmedlem av Norges judoforbund. Han var president i 1999-2003, medlem av honorær komite, leder av dommerkomitéen og en rekk andre verv. I dag er Alf regionsensor Midt-Norge og medlem av dan-kommisjonen i forbundet. Innherred Judoklubb ble den 6. judoklubben Alf har vært med å starte. Han har også vært hovedtrener for Levanger Judoklubb i mer enn 40 år.
 
 
               Til daglig jobber Alf hos NAV som rådgiver."
