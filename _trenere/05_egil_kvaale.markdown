@@ -3,8 +3,8 @@ navn: Egil Kvåle
 tittel: Trener voksne/ungdom
 layout: default
 modal-id: 5
-img: batman.png
-thumbnail: batman.png
+img: egil_kvale.JPG
+thumbnail: egil_kvale.JPG
 alt: Egil Kvåle, trener judo
 description: "2. dan judo. Egil Kvåle er et av judo-norges mest kjente navn. Helt siden han debuterte med NM-gull i 1987 har han høstet medaljer av edleste valør nesten hvert eneste år.
 
