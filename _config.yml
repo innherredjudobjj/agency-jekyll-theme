@@ -1,32 +1,33 @@
-url: https://y7kim.github.io
-#baseurl: /agency-jekyll-theme/
-
-# Site settings
+---
 title: Innherred Judo og BJJ
-email: ijudobjj@gmail.com
-description: "Innherred Judo og BJJ. Etablert i 2016. Opplev morsom og god trening for alle med erfarne kampsporttrenere. "
-
+timezone: UTC
 collections:
-  - trenere
-  - styret
-
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+  posts:
+    title: Posts
+    output: true
+  styret:
+    title: Styret
+    output: false
+  trenere:
+    title: Trenere
+    output: false
+  uploads:
+    title: Uploads
+    output: true
+url: https://y7kim.github.io
+email: ijudobjj@gmail.com
+description: 'Innherred Judo og BJJ. Etablert i 2016. Opplev morsom og god trening
+  for alle med erfarne kampsporttrenere. '
 social:
-  - title: instagram
-    url: http://instagram.com/innherredjudoogbjj
-  - title: youtube
-    url: https://www.youtube.com/channel/UCYglIAHSwPWnh_Ipse9NyBg
-  - title: facebook
-    url: https://www.facebook.com/innherredjudobjj/
-#  - title: snapchat
-#      url: https://www.snapchat.com/add/ijudobjj
-
-# Postal address (add as many lines as necessary)
+- title: instagram
+  url: http://instagram.com/innherredjudoogbjj
+- title: youtube
+  url: https://www.youtube.com/channel/UCYglIAHSwPWnh_Ipse9NyBg
+- title: facebook
+  url: https://www.facebook.com/innherredjudobjj/
 address:
-  - line: Vårtun Kristne Oppvekstsenter
-  - line: Alstadhaugvegen 150
-  - line: 7607 Levanger
-
-# Build settings
+- line: Vårtun Kristne Oppvekstsenter
+- line: Alstadhaugvegen 150
+- line: 7607 Levanger
 markdown: kramdown
 permalink: pretty
